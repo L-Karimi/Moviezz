@@ -24,6 +24,4 @@
 | <img src="https://i.imgur.com/olEQaEl.jpg" width="250">  | <img src="https://i.imgur.com/iLdWpae.jpg" width="250"> | <img src="https://i.imgur.com/qNiQlBD.jpg" width="250"> 
 | <img src="https://i.imgur.com/BNSRFe7.jpg" width="250">  | <img src="https://i.imgur.com/QtF21fJ.jpg" width="250"> | <img src="https://i.imgur.com/jpPdSeJ.jpg" width="250"> 
  
-Project Preview: [Youtube](https://youtu.be/jhYmx7ytBs0).
 
-<a href="https://galaxy.store/trailers"><img src="https://img.samsungapps.com/seller/images/badges/galaxyStore/png_big/GalaxyStore_English.png?ver=1599637432000" alt="Available on Samsung Galaxy Store" width="380" height="80"></a>
